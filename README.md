@@ -24,6 +24,8 @@ controller overhead : 문제에서 주어진 480 Mbits/sec을 물리단위 변�
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/84f9b370-a5db-4aaa-9266-321e039ed600)
 ```
 1번 문제 풀이
+
+
 ```
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/1a3afc56-e893-498c-bcaa-2795e32b010f)
 ```
