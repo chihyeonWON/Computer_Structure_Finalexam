@@ -25,9 +25,21 @@ controller overhead : 문제에서 주어진 480 Mbits/sec을 물리단위 변�
 ```
 1번 문제 풀이
 
+block 개수 = (32K/2)/8 = 2K = 2의 11승 
+index size = 11
+tag size = 64-(11+1+3) = 49
 
+valid + tag = metadata
+total cache size = #blocks * (valid + tag + data) = 2의11 * (1 + 49 + 2*64)
+
+block 개수 = (64K/16)/8 = 0.5K = 2의 9승
+index size = 9
+tag size = 64-(9+4+3) = 48
+total cache size = 2의9 * (1 + 48 + 16*64) = 549376 (콤마 쓰지 말것)
 ```
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/1a3afc56-e893-498c-bcaa-2795e32b010f)
 ```
 2번 문제 풀이
+
+문제 오류로 생략
 ```
