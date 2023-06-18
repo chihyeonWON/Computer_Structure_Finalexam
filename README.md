@@ -1,13 +1,22 @@
 # Computer_Structure_Finalexam
 컴퓨터구조 기말고사 정리입니다.
 
+## 기말고사 풀이
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/8f9a5f6e-bae1-43f8-99f4-03aadff811f8)
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/5faa42bc-bca1-488c-a32d-4b7cea629e2d)
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/f864dc2a-c0fc-4999-af25-7726efbe02ba)
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/35b614a9-a562-4acb-9372-df355a246af3)
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/f8b6c360-f3bf-4205-9619-d8a77d0be1c0)
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/5c64bf74-c52e-4a64-b541-eba84965c255)
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/8fe062b0-2ed2-4cf8-b87e-377caa778a61)
+
+
+
 [기말고사 정리는 여기서](https://ttl-blog.tistory.com/1096)
 [데이터 Harzard Forwarding](https://velog.io/@embeddedjune/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC-9.-Pipelined-Architecture-3)
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/8e9000b9-80cf-4e01-ae6a-0e5031b7e8c8)
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/aa950302-63f2-4750-9435-37404912f2a3)
 
-## 기말고사 풀이
-![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/8f9a5f6e-bae1-43f8-99f4-03aadff811f8)
 
 ```
 1번 문제 풀이
