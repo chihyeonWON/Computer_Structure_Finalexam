@@ -5,6 +5,10 @@
 [데이터 Harzard Forwarding](https://velog.io/@embeddedjune/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC-9.-Pipelined-Architecture-3)
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/8e9000b9-80cf-4e01-ae6a-0e5031b7e8c8)
 ![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/aa950302-63f2-4750-9435-37404912f2a3)
+
+## 기말고사 풀이
+![image](https://github.com/chihyeonWON/Computer_Structure_Finalexam/assets/58906858/8f9a5f6e-bae1-43f8-99f4-03aadff811f8)
+
 ```
 1번 문제 풀이
 
